@@ -1,3 +1,4 @@
+![Seongjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=5j1n&show_icons=true&theme=transparent)
 
 ### Hi there 👋
 
