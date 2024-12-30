@@ -1,6 +1,4 @@
 
-### 안녕하세요 전북대학교 컴퓨터공학부 20학번 조성진입니다.👋
-#### Hello, I'm Cho Seong-jin, majoring in computer engineering at Jeonbuk National University.
 
 <!--
 **5j1n/5j1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+
+📫 My e-mail: cho534910@gmail.com
+
+🔭 I’m currently worked on NLL Lab
+
 📚  Language :<br><br>
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
