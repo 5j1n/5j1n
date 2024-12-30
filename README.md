@@ -1,6 +1,6 @@
-![Seongjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=5j1n&show_icons=true&theme=transparent)
 
-### Hi there 👋
+### 안녕하세요 전북대학교 컴퓨터공학부 20학번 조성진입니다.👋
+#### Hello, I'm Cho Seong-jin, majoring in computer engineering at Jeonbuk National University.
 
 <!--
 **5j1n/5j1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/python-007396?style=for-the-badge&logo=python&logoColor=white">
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjin1121)](https://solved.ac/sjin1121)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=5j1n)](https://solved.ac/5j1n)
 
