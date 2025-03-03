@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 -->
 
 📫 My e-mail: cho534910@gmail.com
+📫 My blog: https://5j1n.tistory.com/
 
 🔭 I currently worked on NLL Lab and I belong to KT digital talent scholarship.
 
