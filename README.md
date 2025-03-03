@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 🔭 I currently worked on NLL Lab and I belong to KT digital talent scholarship.
 
 📚  Language & Stack:<br><br>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/python-007396?style=for-the-badge&logo=python&logoColor=white"><br>
